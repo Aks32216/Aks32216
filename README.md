@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amish-kumar-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amish-kumar-singh" height="30" width="40" /></a>
-<a href="https://codesandbox.com/aks32216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aks32216" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/amish32216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amish32216" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/supastrikas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="supastrikas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amish-kumar-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/Aks32216/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amish-kumar-singh" height="30" width="40" /></a>
+<a href="https://codesandbox.com/aks32216" target="blank"><img align="center" src="https://raw.githubusercontent.com/Aks32216/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aks32216" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/amish32216" target="blank"><img align="center" src="https://raw.githubusercontent.com/Aks32216/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amish32216" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/supastrikas" target="blank"><img align="center" src="https://raw.githubusercontent.com/Aks32216/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="supastrikas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aks32216&show_icons=true&locale=en" alt="aks32216" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=aks32216&" alt="aks32216" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aks32216&" alt="aks32216" /></p>
