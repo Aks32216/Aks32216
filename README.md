@@ -15,9 +15,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/amish-kumar-singh" target="blank"><img src="https://raw.githubusercontent.com/Aks32216/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amish-kumar-singh" height="30" width="40" /></a>
-<a href="https://leetcode.com/supastrikas" target="blank"><img src="https://raw.githubusercontent.com/Aks32216/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="supastrikas" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/amish32216" target="blank"><img src="https://raw.githubusercontent.com/Aks32216/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amish32216" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amish-kumar-singh" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="amish-kumar-singh" /></a>
+<a href="https://leetcode.com/supastrikas" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="supastrikas" /></a>
+<a href="https://aks32216.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
 </p>
 
 <h3 align="center">Languages & Tools:</h3>
